@@ -1,1 +1,5 @@
 articles/*
+!dataset/.gitkeep
+!data/.gitkeep
+data/*/*
+*.zip
